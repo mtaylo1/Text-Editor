@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "J.A.T.E. just another text editor",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,7 +12,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "mtaylo1",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
